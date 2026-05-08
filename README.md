@@ -59,10 +59,9 @@ Sou católico, gosto de esportes e acredito que dedicação, aprendizado contín
 
 ## 📌 Atualmente Estudando
 
-- 📚 Engenharia de Software
 - ⚛️ React e Next.js
 - 🟢 Node.js
-- 🗄️ Banco de Dados MySQL
+- 🗄️ Banco de Dados MySQL / PostgreSQL
 - ☁️ APIs e Integrações
 - 🔐 Segurança de Aplicações Web
 
