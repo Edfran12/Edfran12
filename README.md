@@ -3,14 +3,10 @@
 
 # 👨🏾‍💻 Édfran de Almeida Pereira
 
-**`Desenvolvedor FullStack`**
-
 Me chamo Édfran de Almeida Pereira, sou de Feira de Santana - BA e apaixonado por tecnologia.  
 Concluí o Ensino Médio no SESI Feira de Santana e o curso Técnico em Desenvolvimento de Sistemas no SENAI Feira de Santana.  
 
 Atualmente, curso Engenharia de Software na UNIFAN – Centro Universitário Nobre, buscando evoluir constantemente como desenvolvedor e adquirir novos conhecimentos nas áreas de desenvolvimento web, banco de dados e tecnologia em geral.
-
-Sou católico, gosto de esportes e acredito que dedicação, aprendizado contínuo e disciplina são essenciais para crescer na área de tecnologia.
 
 ---
 
