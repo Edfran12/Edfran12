@@ -1,18 +1,11 @@
 > *“O trabalho é a vocação inicial do homem, é uma bênção de Deus, e enganam-se lamentavelmente os que o consideram um castigo.”*  
 > — São Josemaria Escrivá
 
-# 👨🏾‍💻 Édfran de Almeida Pereira
 
-Me chamo Édfran de Almeida Pereira, sou de Feira de Santana - BA e apaixonado por tecnologia.  
-Concluí o Ensino Médio no SESI Feira de Santana e o curso Técnico em Desenvolvimento de Sistemas no SENAI Feira de Santana.  
+<h1 align="center">👨🏾‍💻 Édfran de Almeida Pereira</h1>
 
 Atualmente, curso Engenharia de Software na UNIFAN – Centro Universitário Nobre, buscando evoluir constantemente como desenvolvedor e adquirir novos conhecimentos nas áreas de desenvolvimento web, banco de dados e tecnologia em geral.
-
----
-
-## 🌐 Redes Sociais
-
-<p align="left">
+<p align="center">
     <a href="https://github.com/Edfran12">
         <img 
             alt="GitHub" 
@@ -30,36 +23,30 @@ Atualmente, curso Engenharia de Software na UNIFAN – Centro Universitário Nob
 </p>
 
 ---
+### 🛠️ Tecnologias
 
-## 🤖 Linguagens e Tecnologias
+**Linguagens**
+<div style="display: inline-block;"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
 
-<p align="center">
+<br>
 
-<img alt="React" title="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+**Frontend (Web)**
+<div style="display: inline-block;"><br>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
 
-<img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
-<img alt="Docker" title="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img alt="Node.js" title="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img alt="Bootstrap" title="Bootstrap" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img alt="HTML" title="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img alt="CSS" title="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img alt="PostgreSQL" title="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-</p>
-
-## 📌 Atualmente Estudando
-
-- ⚛️ React e Next.js
-- 🟢 Node.js
-- 🗄️ Banco de Dados MySQL / PostgreSQL
-- ☁️ APIs e Integrações
-- 🔐 Segurança de Aplicações Web
-
-
----
+**Backend & Ferramentas**
+<div style="display: inline-block;"><br>
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
